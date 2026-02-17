@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -40,10 +40,10 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```bash
 source build/envsetup.sh
 breakfast <devicecodename>
-m scandiumui
+m scandium
 ```
 
-## 📄 License
+## License
 
 Copyright (C) 2026 ScandiumUI
 
