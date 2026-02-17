@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="PixelOS-AOSP/android_frameworks_base" />
+  <remove-project name="PixelOS-AOSP/android_packages_apps_Settings" />
+  <remove-project name="PixelOS-AOSP/android_build" />
+  <remove-project name="PixelOS-AOSP/android_vendor_lineage" />
+</manifest>
